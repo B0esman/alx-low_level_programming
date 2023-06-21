@@ -18,7 +18,7 @@ int main(void)
 	}
 	while (uppercase <= 'Z')
 	{
-        putchar(uppercase);
+        putchar(Uppercase);
 	uppercase += 1;
 	}
 	putchar('\n');
