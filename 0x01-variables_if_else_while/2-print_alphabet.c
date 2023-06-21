@@ -10,8 +10,8 @@
 int main(void)
 {
 	int lowercase = 'a';
-	while ( lowercase <= 'z')
-	printf("\n")
+
+	while (lowercase <= 'z')
 	{
 	putchar(lowercase);
 	lowercase += 1;
